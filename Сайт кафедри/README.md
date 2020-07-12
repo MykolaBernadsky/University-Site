@@ -5,8 +5,7 @@
 [![dependencies Status](https://david-dm.org/ittus/vuejs-slack-clone-realtime/status.svg)](https://david-dm.org/ittus/vuejs-slack-clone-realtime)    [![devDependencies Status](https://david-dm.org/ittus/vuejs-slack-clone-realtime/dev-status.svg)](https://david-dm.org/ittus/vuejs-slack-clone-realtime?type=dev)
 
 # Demo
-https://slackclonevuejs.firebaseapp.com
-![Demo Image](images/screenshot1.png)
+https://mychat-kursova.web.app/#/
 
 # Technology
 - VueJS
